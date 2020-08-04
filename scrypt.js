@@ -38,8 +38,8 @@ function finalizar () {
         window.document.alert('Adicione valores antes de finalizar!')
     } else {
         let tot = valores.length
-        let maior = valores [0]
-        let menor = valores [0]
+        let maior = valores [4]
+        let menor = valores [1]
         let soma = 0;
         let media = 0;
         for(let pos in valores) {
