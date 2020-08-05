@@ -28,7 +28,7 @@
 
     <footer id="rodape">
         <p>Wentony Oliveira</p>
-        <p><a href="http>//facebook.com/"> Facebook</a> | <a href="http://twitter.com/"> Twitter</a> </p>
+        <p><a href="http>//facebook.com/"> Facebook Wentony Capuleto </a> | <a href="http://twitter.com/"> Twitter</a> </p>
         </footer>
         <script src="scrypt.js"></script>
 </body>
